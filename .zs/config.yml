@@ -1,7 +1,7 @@
 ---
-title: Sample page
-description: How to create a page on mathconf.eu
-keywords: github actions, zs, mathconf, static site generator, mathematics, conference, web hosting
+title: Workshop
+description: A two-week hands-on workshop aiming to formalize more basic polytope theory
+keywords: polytopes, lean, formalization, workshop
 
 extensions:
   - typography

@@ -16,5 +16,10 @@ Invited Experts:
 * [Louis Theran](https://theran.lt/)
 * [Xavier Allamigeon](http://www.cmap.polytechnique.fr/~allamigeon/)
 
+Organisers:
+* [Georg Loho](https://lohomath.github.io/)
+* [Martin Winter](https://martinwintermath.github.io/)
+* [Olivia Röhrig](https://iol.zib.de/team/olivia-roehrig.html)
+
 ## How
 Please bring a computer with a [working lean installation](https://lean-lang.org/install/) and a typechecked clone of [our project github repository](https://github.com/ooovi/Polyhedral).

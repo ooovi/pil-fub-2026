@@ -22,4 +22,4 @@ Organisers:
 * [Olivia Röhrig](https://iol.zib.de/team/olivia-roehrig.html)
 
 ## How
-Please bring a computer with a [working lean installation](https://lean-lang.org/install/) and a typechecked clone of [our project github repository](https://github.com/ooovi/Polyhedral).
+Please bring a computer with a [working Lean installation](https://lean-lang.org/install/) and a typechecked clone of [our project github repository](https://github.com/ooovi/Polyhedral).

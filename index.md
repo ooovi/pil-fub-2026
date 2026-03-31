@@ -1,4 +1,4 @@
-page-title: Polytopes in Lean
+page-title: Polyhedra in Lean
 ---
 
 ## When and where

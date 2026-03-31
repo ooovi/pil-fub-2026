@@ -1,7 +1,7 @@
 ---
 title: Workshop
-description: A two-week hands-on workshop aiming to formalize more basic polytope theory
-keywords: polytopes, lean, formalization, workshop
+description: A two-week hands-on workshop aiming to formalize more basic polyhedra theory
+keywords: polytopes, polyhedra, lean, formalization, workshop
 
 extensions:
   - typography

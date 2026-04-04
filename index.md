@@ -1,19 +1,17 @@
 page-title: Polyhedra in Lean
 ---
 
-## When and where
-This event will take place **August 24 -- September 4, 2026** at **FU Berlin**.
+This workshop will take place **August 24 -- September 4, 2026** at **FU Berlin**.
 
-## What
-This workshop brings together experts on **Lean** and formalization, experts on the various aspects of **polyhedral geometry and combinatorics**, and young researchers interested in or curious about formalization. Its goal is planning and accelerating the formalization of the foundations of polyhedral theory in the Lean language and their integration into mathlib, aiming for a long term collaboration.
+We brings together experts on **Lean** and formalization, experts on the various aspects of **polyhedral geometry and combinatorics**, and young researchers interested in or curious about formalization with the goal of planning and accelerating the formalization of the foundations of polyhedral theory in the Lean language and their integration into mathlib, aiming for a long term collaboration.
 
 ## Invited Experts
 * [Yael Dillies](https://www.su.se/english/profiles/y/yadi8568)
 * [Justus Springer](https://www.math.uni-tuebingen.de/de/forschung/algebra/personen/justus-springer)
 * [Moritz Firsching](https://firsching.ch/)
 * [Kim Völlinger](https://www.tu.berlin/en/mtv/team/research-associates/dr-kim-voellinger)
-<!--* [Louis Theran](https://theran.lt/)-->
 * [Xavier Allamigeon](http://www.cmap.polytechnique.fr/~allamigeon/)
+<!--* [Louis Theran](https://theran.lt/)-->
 
 ## Organisers
 * [Georg Loho](https://lohomath.github.io/)
@@ -27,10 +25,10 @@ TBA
 A registration form will be made available soon. In the mean time, contact the organizers to 
 indicate interest.
 
-## What you will need to participate
+## What you need to participate
 There will be a setup session on the first day, but ideally you already come with the following: 
 * your own computer
 * a working [Lean installation](https://lean-lang.org/install/)
 * VSCode or some other Lean capable IDE
-* a git installation, and some experience with using GitHub
+* a git installation and some experience with using GitHub
 * a typechecked clone of our project GitHub repository (will be shared here before the workshop) <!--https://github.com/ooovi/Polyhedral-->

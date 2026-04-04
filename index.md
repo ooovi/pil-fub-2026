@@ -2,24 +2,35 @@ page-title: Polyhedra in Lean
 ---
 
 ## When and where
-This event will take place from **August 24 to September 4, 2026** at **FU Berlin**.
+This event will take place **August 24 -- September 4, 2026** at **FU Berlin**.
 
 ## What
-This workshop brings together experts on Lean and formalization, experts on various aspects of polyhedral theory, and young researchers interested in or curious about formalization. Its goal is planning and accelerating the formalization of the foundations of polyhedral geometry in the Lean language and their integration into mathlib, aiming for long term collaboration of the participants.
+This workshop brings together experts on **Lean** and formalization, experts on the various aspects of **polyhedral geometry and combinatorics**, and young researchers interested in or curious about formalization. Its goal is planning and accelerating the formalization of the foundations of polyhedral theory in the Lean language and their integration into mathlib, aiming for a long term collaboration.
 
-## Who
-Invited Experts:
+## Invited Experts
 * [Yael Dillies](https://www.su.se/english/profiles/y/yadi8568)
 * [Justus Springer](https://www.math.uni-tuebingen.de/de/forschung/algebra/personen/justus-springer)
 * [Moritz Firsching](https://firsching.ch/)
 * [Kim Völlinger](https://www.tu.berlin/en/mtv/team/research-associates/dr-kim-voellinger)
-* [Louis Theran](https://theran.lt/)
+<!--* [Louis Theran](https://theran.lt/)-->
 * [Xavier Allamigeon](http://www.cmap.polytechnique.fr/~allamigeon/)
 
-Organisers:
+## Organisers
 * [Georg Loho](https://lohomath.github.io/)
-* [Martin Winter](https://martinwintermath.github.io/)
 * [Olivia Röhrig](https://iol.zib.de/team/olivia-roehrig.html)
+* [Martin Winter](https://martinwintermath.github.io/)
 
-## How
-Please bring a computer with a [working Lean installation](https://lean-lang.org/install/) and a typechecked clone of [our project github repository](https://github.com/ooovi/Polyhedral).
+## Schedule
+TBA
+
+## Registration
+A registration form will be made available soon. In the mean time, contact the organizers to 
+indicate interest.
+
+## What you will need to participate
+There will be a setup session on the first day, but ideally you already come with the following: 
+* your own computer
+* a working [Lean installation](https://lean-lang.org/install/)
+* VSCode or some other Lean capable IDE
+* a git installation, and some experience with using GitHub
+* a typechecked clone of our project GitHub repository (will be shared here before the workshop) <!--https://github.com/ooovi/Polyhedral-->

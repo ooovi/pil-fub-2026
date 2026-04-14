@@ -24,7 +24,7 @@ Our goal is to plan and accelerate the formalization of the foundations of polyh
 TBA
 
 ## Registration
-A registration form will be made available soon. In the meantime, contact an organizer to indicate interest.
+Please head [here](https://my.liberaforms.org/pil-fub-2026-registration) to register if you want to participate.
 
 ## What you need to participate
 There will be a setup session on the first day, but ideally you already come with the following: 

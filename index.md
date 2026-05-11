@@ -35,6 +35,7 @@ There will be a setup session on the first day, but ideally you already come wit
 * a typechecked clone of our project GitHub repository (will be shared here before the workshop) <!--https://github.com/ooovi/Polyhedral-->
 
 ## Funding
-We thankfully acknowledge the supporty by [MATH+](https://mathplus.de/).
+We thankfully acknowledge the supporty by [MATH+](https://mathplus.de/) and the [SPP 2458 "Combinatorial Synergies"](https://www.combinatorial-synergies.de/).
 
 <img src="MATHPLUS-Logo-retina.png" width="300"/>
+<img src="BWM-farbig-typo-schwarz.svg" width="300"/>

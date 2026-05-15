@@ -21,7 +21,11 @@ Our goal is to plan and accelerate the formalization of the foundations of polyh
 * [Martin Winter](https://martinwintermath.github.io/)
 
 ## Schedule
-TBA
+
+A detailed schedule will be announced later.
+
+The main part of the workshop will consist of group work, formalizing selected topics around polytopes/polyhedra in Lean.
+We also plan to have one talk per day on the topics of Lean, formalization, AI and/or polyhedral geometry and combinatorics.
 
 ## Registration
 The capacities are limited. If you are interested in participating, please register until **June 16, 2026** by filling in the form [here](https://my.liberaforms.org/pil-fub-2026-registration).
@@ -35,7 +39,7 @@ There will be a setup session on the first day, but ideally you already come wit
 * a working [Lean installation](https://lean-lang.org/install/)
 * VSCode or some other Lean capable IDE
 * a git installation and some experience with using GitHub
-* a typechecked clone of our project GitHub repository (will be shared here before the workshop) <!--https://github.com/ooovi/Polyhedral-->
+* a typechecked clone of the workshop GitHub repository (will be shared here before the workshop) <!--https://github.com/ooovi/Polyhedral-->
 
 ## Funding
 We thankfully acknowledge the supporty by [MATH+](https://mathplus.de/) and the [SPP 2458 "Combinatorial Synergies"](https://www.combinatorial-synergies.de/).

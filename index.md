@@ -24,7 +24,10 @@ Our goal is to plan and accelerate the formalization of the foundations of polyh
 TBA
 
 ## Registration
-Please head [here](https://my.liberaforms.org/pil-fub-2026-registration) to register if you want to participate.
+The capacities are limited. If you are interested in participating, please register until **June 16, 2026** by filling in the form [here](https://my.liberaforms.org/pil-fub-2026-registration).
+
+There are limited travel funds available for young researchers.
+If you would like to apply for them, please send us a short motivation letter (max 1 page) and the name and email address of one reference we can contact. The deadline is **June 1, 2026**.
 
 ## What you need to participate
 There will be a setup session on the first day, but ideally you already come with the following: 

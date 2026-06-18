@@ -8,11 +8,12 @@ Our goal is to plan and accelerate the formalization of the foundations of polyh
 
 ## Invited Experts
 
-* [Yaël Dillies](https://www.su.se/english/profiles/y/yadi8568)
-* [Justus Springer](https://www.math.uni-tuebingen.de/de/forschung/algebra/personen/justus-springer)
-* [Moritz Firsching](https://firsching.ch/)
-* [Kim Völlinger](https://www.tu.berlin/en/mtv/team/research-associates/dr-kim-voellinger)
 * [Xavier Allamigeon](http://www.cmap.polytechnique.fr/~allamigeon/)
+* [Yaël Dillies](https://www.su.se/english/profiles/y/yadi8568)
+* [Moritz Firsching](https://firsching.ch/)
+* [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/)
+* [Justus Springer](https://www.math.uni-tuebingen.de/de/forschung/algebra/personen/justus-springer)
+* [Kim Völlinger](https://www.tu.berlin/en/mtv/team/research-associates/dr-kim-voellinger)
 <!--* [Louis Theran](https://theran.lt/)-->
 
 ## Organisers

@@ -9,6 +9,7 @@ Our goal is to plan and accelerate the formalization of the foundations of polyh
 ## Invited Experts
 
 * [Xavier Allamigeon](http://www.cmap.polytechnique.fr/~allamigeon/)
+* [Jesús De Loera](https://www.math.ucdavis.edu/~deloera/)
 * [Yaël Dillies](https://www.su.se/english/profiles/y/yadi8568)
 * [Moritz Firsching](https://firsching.ch/)
 * [Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/)

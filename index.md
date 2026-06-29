@@ -30,7 +30,7 @@ The main part of the workshop will consist of group work, formalizing selected t
 We also plan to have one talk per day on the topics of Lean, formalization, AI and/or polyhedral geometry and combinatorics.
 
 ## Registration
-The capacities are limited. If you are interested in participating, please register until **July 16, 2026** by filling in the form [here](https://my.liberaforms.org/pil-fub-2026-registration).
+The capacity of the workshop has been reached and the official registration is now closed. If you are still interested in participating, and would like to be added to the waiting list, please fill in the form [here](https://my.liberaforms.org/pil-fub-2026-registration).
 
 There are limited travel funds available for young researchers.
 If you would like to apply for them, please send us a short motivation letter (max 1 page) and the name and email address of one reference we may contact. The deadline is **July 1, 2026**.

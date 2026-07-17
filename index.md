@@ -48,7 +48,7 @@ There will be a setup session on the first day, but ideally you already come wit
 * VSCode or some other Lean capable IDE
 * a git installation and some experience with using GitHub
 * a typechecked clone of the workshop GitHub repository (will be shared here before the workshop) <!--https://github.com/ooovi/Polyhedral-->
-* an account for the [Lean Zulip instance](https://leanprover.zulipchat.com/)
+* an account at the [Lean Zulip instance](https://leanprover.zulipchat.com/)
 
 ## Funding
 We thankfully acknowledge the supporty by [MATH+](https://mathplus.de/) and the [SPP 2458 "Combinatorial Synergies"](https://www.combinatorial-synergies.de/).

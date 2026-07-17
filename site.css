@@ -123,13 +123,11 @@ h2 {
 a {
   color: rgb(0,0,0);
   font-weight: 600;
-  text-decoration: none;
   text-decoration: underline 2px #ccc;
 }
 
 a:hover {
   color: #ccc;
-  text-decoration: underline 2px #ccc;
 }
 
 div.side-by-side {

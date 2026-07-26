@@ -24,6 +24,55 @@ Our goal is to plan and accelerate the formalization of the foundations of polyh
 
 ## Schedule
 
+<section class="workshop-schedule" aria-labelledby="schedule-heading">
+  <h2 id="schedule-heading">Schedule</h2>
+  <p>Most workshop days are devoted to group work. </p>
+
+  <div class="schedule-grid">
+    <section class="schedule-card" aria-labelledby="opening-day-title">
+      <header><h3 id="opening-day-title">Opening day <span class="date">Monday, 24 August</span></h3></header>
+      <ol class="agenda">
+        <li><time datetime="2026-08-24T10:00">10:00</time><span>Registration</span></li>
+        <li><time datetime="2026-08-24T10:15">10:15</time><span>Welcome, introduction, technical setup, repository overview, and project discussion</span></li>
+        <li><time datetime="2026-08-24T12:00">12:00</time><span>Lunch</span></li>
+        <li><time datetime="2026-08-24T13:30">13:30</time><span><strong>Michael Rothgang:</strong> Introduction to Mathlib</span></li>
+        <li><time datetime="2026-08-24T14:30">14:30</time><span>Group formation</span></li>
+        <li><time datetime="2026-08-24T15:00">15:00</time><span>Start of group work</span></li>
+      </ol>
+    </section>
+
+    <section class="schedule-card" aria-labelledby="routine-title">
+      <header><h3 id="routine-title">Typical group-work day</h3></header>
+      <table class="schedule-table">
+        <caption class="sr-only">Standard daily schedule for group-work days</caption>
+        <tbody>
+          <tr><td><time datetime="10:00">10:00</time></td><td>Soft start; meet directly in groups</td></tr>
+          <tr><td><time datetime="12:00">12:00</time></td><td>Lunch</td></tr>
+          <tr><td><time datetime="14:00">14:00</time></td><td>Talk, information session, or other programme</td></tr>
+          <tr><td><time datetime="17:00">17:00</time></td><td>All-groups status update</td></tr>
+        </tbody>
+      </table>
+    </section>
+  </div>
+
+  <h3>Talks and special sessions</h3>
+  <p>Unless listed here, the day follows the typical group-work schedule above.</p>
+
+  <table class="schedule-table exceptions">
+    <caption class="sr-only">Talks and sessions that supplement or replace the typical group-work programme</caption>
+    <thead><tr><th scope="col">Date</th><th scope="col">Additional programme</th></tr></thead>
+    <tbody>
+      <tr><td class="date-cell"><time datetime="2026-08-26">Wed, 26 August</time></td><td><time datetime="2026-08-26T14:00">14:00</time> — <strong>Xavier Allamigeon:</strong> TBA</td></tr>
+      <tr><td class="date-cell"><time datetime="2026-08-27">Thu, 27 August</time></td><td><time datetime="2026-08-27T14:00">14:00</time> — <strong>Moritz Firsching:</strong> TBA</td></tr>
+      <tr><td class="date-cell"><time datetime="2026-08-28">Fri, 28 August</time></td><td><ul class="event-list"><li><time datetime="2026-08-28T11:00">11:00</time> — Recap of the week</li><li><time datetime="2026-08-28T13:30">13:30</time> — Group activity (details to follow)</li></ul></td></tr>
+      <tr><td class="date-cell"><time datetime="2026-08-31">Mon, 31 August</time></td><td><time datetime="2026-08-31T14:00">14:00</time> — <strong>Kim Völlinger:</strong> TBA</td></tr>
+      <tr><td class="date-cell"><time datetime="2026-09-01">Tue, 1 September</time></td><td><time datetime="2026-09-01T14:00">14:00</time> — <strong>Jesús de Loera:</strong> TBA</td></tr>
+      <tr><td class="date-cell"><time datetime="2026-09-04">Fri, 4 September</time></td><td><time datetime="2026-09-04T15:00">15:00</time> — Recap of the week and the future of the project</td></tr>
+    </tbody>
+  </table>
+
+</section>
+
 A detailed schedule will be announced in July.
 
 The main part of the workshop will consist of group work, formalizing selected topics around polytopes/polyhedra in Lean.

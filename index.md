@@ -76,7 +76,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
 ## Registration
 
 The registration is now closed.
-We extended the format so as to accommodate everyone currently on the waiting list. If you registered on or before July 16, we are pleased to confirm your place in the workshop.
+We extended the format so as to accommodate everyone previously on the waiting list. If you registered on or before July 16, we are pleased to confirm your place in the workshop.
 
 We offer limited travel funds for young researchers. The application is close.
 All applicants have been contacted about the status of their application.

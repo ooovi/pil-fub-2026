@@ -40,7 +40,6 @@ Our goal is to plan and accelerate the formalization of the foundations of polyh
         <li><time datetime="2026-08-24T15:00">15:00</time><span>Start of group work</span></li>
       </ol>
     </section>
-
     <section class="schedule-card" aria-labelledby="routine-title">
       <header><h3 id="routine-title">Typical group-work day</h3></header>
       <table class="schedule-table">

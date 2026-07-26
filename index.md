@@ -28,8 +28,6 @@ The main part of the workshop will consist of group work, formalizing selected t
 On some days we will have a talk on the topics of Lean, formalization, AI and/or polyhedral geometry and combinatorics.
 
 <section class="workshop-schedule" aria-labelledby="schedule-heading">
-  <p>Most workshop days are devoted to group work. </p>
-
   <div class="schedule-grid">
     <section class="schedule-card" aria-labelledby="opening-day-title">
       <header><h3 id="opening-day-title">Opening day <span class="date">Monday, 24 August</span></h3></header>
@@ -47,9 +45,9 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       <table class="schedule-table">
         <caption class="sr-only">Standard daily schedule for group-work days</caption>
         <tbody>
-          <tr><td><time datetime="10:00">10:00</time></td><td>Soft start; meet directly in groups</td></tr>
+          <tr><td><time datetime="10:00">10:00</time></td><td>Soft start (meet directly in groups)</td></tr>
           <tr><td><time datetime="12:00">12:00</time></td><td>Lunch</td></tr>
-          <tr><td><time datetime="14:00">14:00</time></td><td>Talk, information session, or other programme</td></tr>
+          <tr><td><time datetime="14:00">14:00</time></td><td>Talk, information session, etc</td></tr>
           <tr><td><time datetime="17:00">17:00</time></td><td>All-groups status update</td></tr>
         </tbody>
       </table>
@@ -65,11 +63,11 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
     <tbody>
       <tr><td class="date-cell"><time datetime="2026-08-26">Wed, 26 August</time></td><td><strong>Xavier Allamigeon:</strong> TBA</td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-27">Thu, 27 August</time></td><td><strong>Moritz Firsching:</strong> TBA</td></tr>
-      <tr><td class="date-cell"><time datetime="2026-08-28">Fri, 28 August</time></td><td><ul class="event-list"><li> - Recap of the week</li><li>- Group activity (details to follow)</li></ul></td></tr>
+      <tr><td class="date-cell"><time datetime="2026-08-28">Fri, 28 August</time></td><td><ul class="event-list"><li>Recap of the week</li><li>Group activity (details to follow)</li></ul></td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-31">Mon, 31 August</time></td><td><strong>Kim Völlinger:</strong> TBA</td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-01">Tue, 1 September</time></td><td><strong>Jesús de Loera:</strong> TBA</td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-04">Fri, 4 September</time></td><td>
-      <ul class="event-list"><li> - Recap of the week</li><li>- Discussion of the future of the project</li></ul></td></tr>
+      <ul class="event-list"><li>Recap of the week</li><li>Discussion of the future of the project</li></ul></td></tr>
     </tbody>
   </table>
 

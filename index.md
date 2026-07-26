@@ -76,7 +76,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
 ## Registration
 
 The registration is now closed.
-If you registered after June 29, you are on the waiting list. We will contact you if a slot becomes available.
+We extended the format so as to accommodate everyone currently on the waiting list. If you registered on or before July 16, we are pleased to confirm your place in the workshop.
 
 We offer limited travel funds for young researchers. The application is close.
 All applicants have been contacted about the status of their application.
@@ -87,6 +87,7 @@ There are limited travel funds available for young researchers.
 If you would like to apply for them, please send us a short motivation letter (max 1 page) and the name and email address of one reference we may contact. The deadline is **July 1, 2026**.-->
 
 ## What you need to participate
+
 There will be a setup session on the first day, but ideally you already come with the following: 
 * your own computer
 * a working [Lean installation](https://lean-lang.org/install/)
@@ -96,6 +97,7 @@ There will be a setup session on the first day, but ideally you already come wit
 * an account at the [Lean Zulip instance](https://leanprover.zulipchat.com/)
 
 ## Funding
+
 We thankfully acknowledge the supporty by [MATH+](https://mathplus.de/) and the [SPP 2458 "Combinatorial Synergies"](https://www.combinatorial-synergies.de/).
 
 <div id="logos">

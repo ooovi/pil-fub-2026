@@ -73,6 +73,11 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
 
 </section>
 
+## Venue
+
+- Registration: **Arnimallee 2**
+- Group meetings: **Arnimallee 6** (Pi Building) **SR 031**.
+
 ## Registration
 
 The registration is now closed.

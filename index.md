@@ -95,10 +95,10 @@ If you would like to apply for them, please send us a short motivation letter (m
 
 There will be a setup session on the first day, but ideally you already come with the following: 
 * your own computer
-* a working [Lean installation](https://lean-lang.org/install/)
-* VSCode or some other Lean capable IDE
-* a git installation and some experience with using GitHub
-* a typechecked clone of the workshop GitHub repository (will be shared here before the workshop) <!--https://github.com/ooovi/Polyhedral-->
+* a working [Lean installation](https://lean-lang.org/install/) (note that this also works with the freely licensed [vscodium](https://vscodium.com) editor)
+* VSCode, vscodium or some other Lean capable IDE. You already have this if you followed the guide linked in the line above.
+* a [git](https://git-scm.com/install/) installation
+* a typechecked clone of the workshop fork GitHub repository (will be shared here before the workshop) <!--https://github.com/ooovi/Polyhedral-->
 * an account at the [Lean Zulip instance](https://leanprover.zulipchat.com/)
 
 ## Funding

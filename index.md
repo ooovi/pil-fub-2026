@@ -65,7 +65,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       <tr><td class="date-cell"><time datetime="2026-08-27">Thu, 27 August</time></td><td><strong>Moritz Firsching:</strong> TBA</td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-28">Fri, 28 August</time></td><td><ul class="event-list"><li>Recap of the week</li><li>Group activity (details to follow)</li></ul></td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-31">Mon, 31 August</time></td><td><strong>Kim Völlinger:</strong> TBA</td></tr>
-      <tr><td class="date-cell"><time datetime="2026-09-01">Tue, 1 September</time></td><td><strong>Jesús de Loera:</strong> TBA</td></tr>
+      <tr><td class="date-cell"><time datetime="2026-09-01">Tue, 1 September</time></td><td><strong>Jesús de Loera:</strong> AI and the future of Polyhedral Research</td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-04">Fri, 4 September</time></td><td>
       <ul class="event-list"><li>Recap of the week</li><li>Discussion of the future of the project</li></ul></td></tr>
     </tbody>

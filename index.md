@@ -100,8 +100,14 @@ There will be a setup session on the first day, but ideally you already come wit
 * a working [Lean installation](https://lean-lang.org/install/) (note that this also works with the freely licensed [vscodium](https://vscodium.com) editor)
 * VSCode, vscodium or some other Lean capable IDE. You already have this if you followed the guide linked in the line above.
 * a [git](https://git-scm.com/install/) installation
-* a typechecked clone of the workshop fork GitHub repository (will be shared here before the workshop) <!--https://github.com/ooovi/Polyhedral-->
 * an account at the [Lean Zulip instance](https://leanprover.zulipchat.com/)
+* a typechecked clone of the [workshop fork GitHub repository](https://github.com/Workshop-Polyhedra-In-Lean/Polyhedral). You can get it by running the following two commands in a command line:
+  ```
+    git clone https://github.com/Workshop-Polyhedra-In-Lean/Polyhedral.git
+    cd Polyhedral
+    lake build
+  ```
+
 
 ## Funding
 

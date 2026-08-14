@@ -105,6 +105,7 @@ There will be a setup session on the first day, but ideally you already come wit
   ```
     git clone https://github.com/Workshop-Polyhedra-In-Lean/Polyhedral.git
     cd Polyhedral
+    lake exe cache get
     lake build
   ```
 

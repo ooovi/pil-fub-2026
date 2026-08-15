@@ -32,8 +32,8 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
     <section class="schedule-card" aria-labelledby="opening-day-title">
       <header><h3 id="opening-day-title">Opening day <span class="date">Monday, 24 August</span></h3></header>
       <ol class="agenda">
-        <li><time datetime="2026-08-24T10:00">10:00</time><span>Registration</span></li>
-        <li><time datetime="2026-08-24T10:15">10:15</time><span>Welcome, introduction, technical setup, <br>repository overview, and project discussion</span></li>
+        <li><time datetime="2026-08-24T9:00">9:00</time><span>Registration</span></li>
+        <li><time datetime="2026-08-24T9:30">9:30</time><span>Welcome, introduction, technical setup, <br>repository overview, and project discussion</span></li>
         <li><time datetime="2026-08-24T12:00">12:00</time><span>Lunch (options <a href="RestaurantsCafes_Dahlem.pdf">here</a>)</span></li>
         <li><time datetime="2026-08-24T13:30">13:30</time><span><strong>Michael Rothgang:</strong> Introduction to Mathlib</span></li>
         <li><time datetime="2026-08-24T14:30">14:30</time><span>Group formation</span></li>

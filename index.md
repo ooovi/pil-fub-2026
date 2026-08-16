@@ -106,24 +106,20 @@ There will be a setup session on the first day, but ideally you already come wit
 * a [git](https://git-scm.com/install/) installation
 * an account at the [Lean Zulip instance](https://leanprover.zulipchat.com/)
 * a typechecked clone of the [workshop fork GitHub repository](https://github.com/Workshop-Polyhedra-In-Lean/Polyhedral). You can get it by running the following commands in a command line:
-
   Clone the repository:
   ```
     git clone https://github.com/Workshop-Polyhedra-In-Lean/Polyhedral.git
   ```
-
   Enter the cloned repository's folder:
   ```
     cd Polyhedral
   ```
-
   Download the pre-compiled binaries (otherwise the next command can take hours to execute):
   ```
     lake exe cache get
   ```
   This might need up to 10GB of disk memory and several minuts for downloading depending
   on your internet connection and computer.
-
   Check that it builds:
   ```
     lake build

@@ -101,23 +101,50 @@ If you would like to apply for them, please send us a short motivation letter (m
 
 There will be a setup session on the first day, but ideally you already come with the following: 
 * your own computer
-* a working [Lean installation](https://lean-lang.org/install/) (note that this also works with the freely licensed vscodium editor)
-* [VSCode](https://code.visualstudio.com), [vscodium](https://vscodium.com) or some other Lean capable IDE. You already have this if you followed the guide linked in the line above.
+* a working [Lean installation](https://lean-lang.org/install/)
+* [VSCode](https://code.visualstudio.com) (Microsoft), [vscodium](https://vscodium.com) (freely licensed) or some other Lean capable IDE. You already have this if you followed the guide linked in the line above.
 * a [git](https://git-scm.com/install/) installation
 * an account at the [Lean Zulip instance](https://leanprover.zulipchat.com/)
 * a typechecked clone of the [workshop fork GitHub repository](https://github.com/Workshop-Polyhedra-In-Lean/Polyhedral). You can get it by running the following commands in a command line:
+
+  Clone the repository:
   ```
     git clone https://github.com/Workshop-Polyhedra-In-Lean/Polyhedral.git
-    cd Polyhedral
-    lake exe cache get
-    lake build
   ```
-  This might need up to 10GB of disk memory, and several minuts for downloading and building depending
+
+  Enter the cloned repository's folder:
+  ```
+    cd Polyhedral
+  ```
+
+  Download the pre-compiled binaries (otherwise the next command can take hours to execute):
+  ```
+    lake exe cache get
+  ```
+  This might need up to 10GB of disk memory and several minuts for downloading depending
   on your internet connection and computer.
 
-To get started with writing Lean, you can find all of the most important learning resources
-[here](https://leanprover-community.github.io/learn.html) or [here](https://lean-lang.org/learn/).
-This includes the [Lean learning games](https://adam.math.hhu.de/).
+  Check that it builds:
+  ```
+    lake build
+  ```
+  There will be some warnings, most of which come from the remaining `sorry`-s. You can ignore them.
+
+## Lean resources
+
+To get started with writing Lean, we list here some of the most important learning resources:
+
+- [Lean learning games](https://adam.math.hhu.de/)
+
+- Freely available e-books:
+  - [Mathematics in Lean](https://avigad.github.io/mathematics_in_lean/)
+  - [Formalising Mathematics](https://www.ma.imperial.ac.uk/~buzzard/xena/formalising-mathematics-2022/index.html)
+  - [Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/)
+
+- [Introduction to Formal Mathematics with Lean 4](https://sun123zxy.github.io/lean4-formal-math-intro/intro.html)
+
+- [Paperproof](https://github.com/Paper-Proof/paperproof), a Lean theorem-proving interface designed to feel like pen-and-paper proofs.
+
 For looking up theorems, try [Loogle](https://loogle.lean-lang.org/), [leansearch](https://leansearch.net) or 
 the [mathlib documentation](https://leanprover-community.github.io/mathlib4_docs/index.html).
 

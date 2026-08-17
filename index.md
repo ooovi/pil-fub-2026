@@ -147,22 +147,20 @@ There will be a setup session on the first day, but ideally you already come wit
 * a typechecked clone of the [workshop fork GitHub repository](https://github.com/Workshop-Polyhedra-In-Lean/Polyhedral). You can get it by running the following commands in a command line:
   ```
     git clone https://github.com/Workshop-Polyhedra-In-Lean/Polyhedral.git
-  ```
-  To enter the cloned repository's folder use
-  ```
     cd Polyhedral
   ```
   Then download the pre-compiled binaries, otherwise building can take several hours:
   ```
     lake exe cache get
   ```
-  This might need up to 10GB of disk memory and several minuts for downloading depending
+  This might take up to 10GB of disk memory and several minutes for downloading depending
   on your internet connection and computer.
-  Confirm that it builds using
+  Verify that it builds by running
   ```
     lake build
   ```
-  There will be some warnings, most of which come from the remaining `sorry`-s. You can ignore them.
+  There will be some warnings, most of which come from remaining `sorry`-s or deprecations. 
+  You can ignore them.
 
 ## Lean resources
 

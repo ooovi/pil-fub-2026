@@ -152,7 +152,7 @@ There will be a setup session on the first day, but ideally you already come wit
   ```
     cd Polyhedral
   ```
-  Then download the pre-compiled binaries, otherwise the next command can take hours to execute:
+  Then download the pre-compiled binaries, otherwise building can take several hours:
   ```
     lake exe cache get
   ```

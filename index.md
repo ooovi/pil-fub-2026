@@ -64,7 +64,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       <tr><td class="date-cell"><time datetime="2026-08-26">Wed, 26 August</time></td><td>
         <ul class="event-list">
           <li>Workshop photo (week 1)</li>
-          <li><strong>Xavier Allamigeon:</strong> Polyhedra in Rocq</li>
+          <li><strong>Xavier Allamigeon:</strong> Formalizing and Computing with Polyhedra in Rocq</li>
           <li>Social evening</li>
         </ul>
       </td></tr>

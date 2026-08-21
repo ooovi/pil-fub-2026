@@ -34,7 +34,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       <ol class="agenda">
         <li><time datetime="2026-08-24T9:00">9:00</time><span>Registration</span></li>
         <li><time datetime="2026-08-24T10:00">10:00</time><span>Welcome, introduction, technical setup, <br>repository overview, and project discussion</span></li>
-        <li><time datetime="2026-08-24T12:00">12:00</time><span>Lunch (options <a href="RestaurantsCafes_Dahlem.pdf">here</a>)</span></li>
+        <li><time datetime="2026-08-24T12:00">12:00</time><span>Lunch (options <a href="Food-options.pdf">here</a>)</span></li>
         <li><time datetime="2026-08-24T14:30">14:30</time><span>Group formation</span></li>
         <li><time datetime="2026-08-24T15:00">15:00</time><span><strong>Justus Springer:</strong> Introduction to Lean</span></li>
         <li><time datetime="2026-08-24T16:00">16:00</time><span><strong>Michael Rothgang:</strong> Introduction to Mathlib</span></li>
@@ -46,7 +46,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
         <caption class="sr-only">Standard daily schedule for group-work days</caption>
         <tbody>
           <tr><td><time datetime="10:00">10:00</time></td><td>Soft start (meet directly in groups)</td></tr>
-          <tr><td><time datetime="12:00">12:00</time></td><td>Lunch (options <a href="RestaurantsCafes_Dahlem.pdf">here</a>)</td></tr>
+          <tr><td><time datetime="12:00">12:00</time></td><td>Lunch (options <a href="Food-options.pdf">here</a>)</td></tr>
           <tr><td><time datetime="14:00">14:00</time></td><td>Talk, information session, etc</td></tr>
           <tr><td><time datetime="17:00">17:00</time></td><td>All-groups status update</td></tr>
         </tbody>
@@ -121,7 +121,7 @@ Rooms for group work:
  - **Arnimallee 3**: 115, 119, 120
  - **Arnimallee 6** (Pi Building): SR 031
 
-For a map of the FU campus Dahlen click [here](Dahlem_Karte_LeanWorkshop.pdf).
+For a map of the FU campus Dahlen click [here](Map-rooms.pdf).
 
 ## Registration
 

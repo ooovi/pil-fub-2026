@@ -37,7 +37,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
         <li><time datetime="2026-08-24T12:00">12:00</time><span>Lunch (options <a href="Food-options.pdf">here</a>)</span></li>
         <li><time datetime="2026-08-24T14:30">14:30</time><span>Group formation</span></li>
         <li><time datetime="2026-08-24T15:00">15:00</time><span><strong>Justus Springer:</strong> Introduction to Lean</span></li>
-        <li><time datetime="2026-08-24T16:00">16:00</time><span><strong>Michael Rothgang:</strong> Introduction to Mathlib</span></li>
+        <li><time datetime="2026-08-24T16:00">16:00</time><span><strong>Michael Rothgang:</strong> Introduction to Mathlib I</span></li>
       </ol>
     </section>
     <section class="schedule-card" aria-labelledby="routine-title">
@@ -63,7 +63,8 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
     <tbody>
       <tr><td class="date-cell"><time datetime="2026-08-25">Tue, 25 August</time></td><td>
         <ul class="event-list">
-          <li><strong>Olivia Röhrig:</strong> Walk through the Polyhedral repository (10:30)</li>
+          <li><strong>Michael Rothgang:</strong> Introduction to Mathlib II (10:30)</li>
+          <li><strong>Olivia Röhrig:</strong> A short walk through the Polyhedral Repository (11:00)</li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-26">Wed, 26 August</time></td><td>

@@ -33,7 +33,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       <header><h3 id="opening-day-title">Opening day <span class="date">Monday, 24 August</span></h3></header>
       <ol class="agenda">
         <li><time datetime="2026-08-24T9:00">9:00</time><span>Registration</span></li>
-        <li><time datetime="2026-08-24T10:00">10:00</time><span>Welcome, introduction, technical setup, <br>repository overview, and project discussion <br> <a href="Intro_Slides_Polyhedra_In_Lean.pdf">Slides</a></span></li>
+        <li><time datetime="2026-08-24T10:00">10:00</time><span>Welcome, introduction, technical setup, <br>repository overview, and project discussion (<a href="Intro_Slides_Polyhedra_In_Lean.pdf">slides</a></span></li>
         <li><time datetime="2026-08-24T12:00">12:00</time><span>Lunch (options <a href="Food-options.pdf">here</a>)</span></li>
         <li><time datetime="2026-08-24T14:30">14:30</time><span>Group formation</span></li>
         <li><time datetime="2026-08-24T15:00">15:00</time><span><strong>Justus Springer:</strong> Introduction to Lean</span></li>
@@ -61,6 +61,11 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
     <caption class="sr-only">Talks and sessions that supplement or replace the typical group-work programme</caption>
     <thead><tr><th scope="col">Date</th><th scope="col">Additional program</th></tr></thead>
     <tbody>
+      <tr><td class="date-cell"><time datetime="2026-08-25">Tue, 25 August</time></td><td>
+        <ul class="event-list">
+          <li><strong>Olivia Röhrig:</strong> Walk through the Polyhedral repository (10:30)</li>
+        </ul>
+      </td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-26">Wed, 26 August</time></td><td>
         <ul class="event-list">
           <li>Workshop photo (week 1)</li>

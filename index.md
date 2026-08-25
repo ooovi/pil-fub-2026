@@ -63,7 +63,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
     <tbody>
       <tr><td class="date-cell"><time datetime="2026-08-25">Tue, 25 August</time></td><td>
         <ul class="event-list">
-          <li><strong>Michael Rothgang:</strong> Introduction to Mathlib II (10:30)</li>
+          <li><strong>Michael Rothgang:</strong> Introduction to Mathlib II (10:30) (<a href="https://www.math.uni-bonn.de/people/rothgang/slides_IntroMathlib_Berlin.pdf">slides</a>)</li>
           <li><strong>Olivia Röhrig:</strong> A short walk through the Polyhedral Repository (11:00)</li>
         </ul>
       </td></tr>

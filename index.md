@@ -183,6 +183,8 @@ To get started with writing Lean, we list here some of the most important learni
 
 - [Introduction to Formal Mathematics with Lean 4](https://sun123zxy.github.io/lean4-formal-math-intro/intro.html)
 
+- [Mathlib Phrasebook](https://github.com/leanprover-community/mathlib-phrasebook/)
+
 - [Paperproof](https://github.com/Paper-Proof/paperproof), a Lean theorem-proving interface designed to feel like pen-and-paper proofs.
 
 For looking up theorems, try [Loogle](https://loogle.lean-lang.org/), [leansearch](https://leansearch.net) or 

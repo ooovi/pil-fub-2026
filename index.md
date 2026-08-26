@@ -37,7 +37,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
         <li><time datetime="2026-08-24T12:00">12:00</time><span>Lunch (options <a href="Food-options.pdf">here</a>)</span></li>
         <li><time datetime="2026-08-24T14:30">14:30</time><span>Group formation</span></li>
         <li><time datetime="2026-08-24T15:00">15:00</time><span><strong>Justus Springer:</strong> Introduction to Lean (<a href="slides-Justus.pdf">slides</a>)</span></li>
-        <li><time datetime="2026-08-24T16:00">16:00</time><span><strong>Michael Rothgang:</strong> Introduction to Mathlib I</span></li>
+        <li><time datetime="2026-08-24T16:00">16:00</time><span><strong>Michael Rothgang:</strong> Introduction to Mathlib I (<a href="https://www.math.uni-bonn.de/people/rothgang/slides_IntroMathlib_Berlin.pdf">slides</a>)</span></li>
       </ol>
     </section>
     <section class="schedule-card" aria-labelledby="routine-title">

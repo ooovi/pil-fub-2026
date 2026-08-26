@@ -69,7 +69,8 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-26">Wed, 26 August</time></td><td>
         <ul class="event-list">
-          <li><strong>Xavier Allamigeon:</strong> Formalizing and Computing with Polyhedra in Rocq</li>
+          <li>Workshop photo (week 1)</li>
+          <li><strong>Xavier Allamigeon:</strong> Formalizing and Computing with Polyhedra in Rocq (14:00)</li>
           <li>Social evening</li>
         </ul>
       </td></tr>
@@ -77,7 +78,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
         <ul class="event-list">
           <li>Discussion: polytope vs. V-polytope vs. H-polytope (11:00, Villa)</li>
           <li>Workshop photo (week 1, 13:55)</li>
-          <li><strong>Moritz Firsching:</strong> The Formal Conjectures project</li>
+          <li><strong>Moritz Firsching:</strong> The Formal Conjectures project (14:00)</li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-28">Fri, 28 August</time></td><td>
@@ -88,25 +89,25 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-31">Mon, 31 August</time></td><td>
         <ul class="event-list">
-          <li><strong>Kim Völlinger:</strong> Polyhedra at Work: Neural Network Verification in Rocq</li>
+          <li><strong>Kim Völlinger:</strong> Polyhedra at Work: Neural Network Verification in Rocq (14:00)</li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-01">Tue, 1 September</time></td><td>
         <ul class="event-list">
-          <li><strong>Yaël Dillies:</strong> Using AI for writing Lean</li>
+          <li><strong>Yaël Dillies:</strong> Using AI for writing Lean (14:00)</li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-02">Wed, 2 September</time></td><td>
         <ul class="event-list">
           <li>Workshop photo (week 2)</li>
-          <li><strong>Jesús de Loera:</strong> AI and the future of Polyhedral Research</li>
+          <li><strong>Jesús de Loera:</strong> AI and the future of Polyhedral Research (14:00)</li>
           <li>Social evening</li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-04">Fri, 4 September</time></td><td>
         <ul class="event-list">
           <li>Recap of the week</li>
-          <li>Discussion of the future of the project</li>
+          <li>Discussion of the future of the project (14:00)</li>
           <li>Official end: 15:00</li>
         </ul>
       </td></tr>

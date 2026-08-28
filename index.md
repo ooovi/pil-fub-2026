@@ -190,6 +190,17 @@ To get started with writing Lean, we list here some of the most important learni
 For looking up theorems, try [Loogle](https://loogle.lean-lang.org/), [leansearch](https://leansearch.net) or 
 the [mathlib documentation](https://leanprover-community.github.io/mathlib4_docs/index.html).
 
+## Group Photo
+
+
+<div id="group_photo">
+  <p>
+    <img src="group_photo.jpg"/>
+  </p>
+</div>
+
+
+
 ## Funding
 
 We thankfully acknowledge the supporty by [MATH+](https://mathplus.de/) and the [SPP 2458 "Combinatorial Synergies"](https://www.combinatorial-synergies.de/).

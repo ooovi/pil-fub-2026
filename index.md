@@ -192,7 +192,7 @@ the [mathlib documentation](https://leanprover-community.github.io/mathlib4_docs
 
 ## Group Photo
 
-![Group photo](group_photo.jpg)
+<img src="group_photo.jpg" width="100%"/>
 
 
 ## Funding

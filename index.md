@@ -192,13 +192,7 @@ the [mathlib documentation](https://leanprover-community.github.io/mathlib4_docs
 
 ## Group Photo
 
-
-<div id="group_photo">
-  <p>
-    <img src="group_photo.jpg", style="width: 100vw; height: auto; display: block">
-  </p>
-</div>
-
+![Group photo](group_photo.jpg)
 
 
 ## Funding

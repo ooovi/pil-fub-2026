@@ -195,7 +195,7 @@ the [mathlib documentation](https://leanprover-community.github.io/mathlib4_docs
 
 <div id="group_photo">
   <p>
-    <img src="group_photo.jpg", width="100vw"/>
+    <img src="group_photo.jpg", style="width: 100vw; height: auto; display: block">
   </p>
 </div>
 

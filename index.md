@@ -94,7 +94,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-01">Tue, 1 September</time></td><td>
         <ul class="event-list">
-          <li><strong>Yaël Dillies:</strong> Using AI for writing Lean (14:00)</li>
+          <li><strong>Yaël Dillies:</strong> What to use LLMs for in Lean? (14:00)</li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-02">Wed, 2 September</time></td><td>

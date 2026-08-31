@@ -89,7 +89,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-31">Mon, 31 August</time></td><td>
         <ul class="event-list">
-          <li>Kick-off meeting for week II</li>
+          <li>Kick-off meeting for week II (11:00)</li>
           <li><strong>Kim Völlinger:</strong> Polyhedra at Work: Neural Network Verification in Rocq (14:00)</li>
         </ul>
       </td></tr>

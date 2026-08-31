@@ -64,7 +64,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       <tr><td class="date-cell"><time datetime="2026-08-25">Tue, 25 August</time></td><td>
         <ul class="event-list">
           <li><strong>Michael Rothgang:</strong> Introduction to Mathlib II (10:30) (<a href="https://www.math.uni-bonn.de/people/rothgang/slides_IntroMathlib_Berlin.pdf">slides</a>)</li>
-          <li><strong>Olivia Röhrig:</strong> A short walk through the Polyhedral Repository (11:00)</li>
+          <li>A short walk through the Polyhedral Repository (11:00)</li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-26">Wed, 26 August</time></td><td>
@@ -89,18 +89,25 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-31">Mon, 31 August</time></td><td>
         <ul class="event-list">
+          <li>Kick-off meeting for week II</li>
           <li><strong>Kim Völlinger:</strong> Polyhedra at Work: Neural Network Verification in Rocq (14:00)</li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-01">Tue, 1 September</time></td><td>
         <ul class="event-list">
-          <li><strong>Yaël Dillies:</strong> What to use LLMs for in Lean? (14:00)</li>
+          <li><strong>Yaël Dillies:</strong> The Convexity Refactor (14:00)</li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-02">Wed, 2 September</time></td><td>
         <ul class="event-list">
           <li>Workshop photo (week 2)</li>
           <li><strong>Jesús de Loera:</strong> AI and the future of Polyhedral Research (14:00)</li>
+          <li>Social evening</li>
+        </ul>
+      </td></tr>
+      <tr><td class="date-cell"><time datetime="2026-09-03">Wed, 3 September</time></td><td>
+        <ul class="event-list">
+          <li><strong>Yaël Dillies:</strong> What to use LLMs for in Lean? (14:00)</li>
           <li>Social evening</li>
         </ul>
       </td></tr>

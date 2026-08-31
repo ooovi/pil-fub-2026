@@ -84,7 +84,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       <tr><td class="date-cell"><time datetime="2026-08-28">Fri, 28 August</time></td><td>
         <ul class="event-list">
           <li>Recap of the week</li>
-          <li>Recreational activity (start ca 15:00)</li>
+          <li>Recreational activity: Walk around Krumme Lanke (start ca 15:00)</li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-31">Mon, 31 August</time></td><td>

@@ -119,8 +119,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-04">Fri, 4 September</time></td><td>
         <ul class="event-list">
-          <li><span class="event-time" aria-hidden="true"></span><span>Recap of the week</span></li>
-          <li><time datetime="14:00">14:00</time><span>Discussion of the future of the project</span></li>
+          <li><time datetime="14:00">14:00</time><span>Recap of the week & future of the project</span></li>
           <li><time datetime="15:00">15:00</time><span>Official end</span></li>
         </ul>
       </td></tr>

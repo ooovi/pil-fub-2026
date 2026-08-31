@@ -63,28 +63,28 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
     <tbody>
       <tr><td class="date-cell"><time datetime="2026-08-25">Tue, 25 August</time></td><td>
         <ul class="event-list">
-          <li><strong>Michael Rothgang:</strong> Introduction to Mathlib II (10:30) (<a href="https://www.math.uni-bonn.de/people/rothgang/slides_IntroMathlib_Berlin.pdf">slides</a>)</li>
-          <li>A short walk through the Polyhedral Repository (11:00)</li>
+          <li><time datetime="10:30">10:30</time><span><strong>Michael Rothgang:</strong> Introduction to Mathlib II (<a href="https://www.math.uni-bonn.de/people/rothgang/slides_IntroMathlib_Berlin.pdf">slides</a>)</span></li>
+          <li><time datetime="11:00">11:00</time><span>A short walk through the Polyhedral Repository</span></li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-26">Wed, 26 August</time></td><td>
         <ul class="event-list">
-          <li>Workshop photo (week 1)</li>
-          <li><strong>Xavier Allamigeon:</strong> Formalizing and Computing with Polyhedra in Rocq (14:00) (<a href="slides_xavier.pdf">slides</a>)</li>
-          <li>Social evening</li>
+          <li><span class="event-time" aria-hidden="true"></span><span>Workshop photo (week 1)</span></li>
+          <li><time datetime="14:00">14:00</time><span><strong>Xavier Allamigeon:</strong> Formalizing and Computing with Polyhedra in Rocq (<a href="slides_xavier.pdf">slides</a>)</span></li>
+          <li><span class="event-time" aria-hidden="true"></span><span>Social evening</span></li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-27">Thu, 27 August</time></td><td>
         <ul class="event-list">
-          <li>Discussion: polytope vs. V-polytope vs. H-polytope (11:00, Villa)</li>
-          <li>Workshop photo (week 1, 13:55)</li>
-          <li><strong>Moritz Firsching:</strong> The Formal Conjectures project (14:00)</li>
+          <li><time datetime="11:00">11:00</time><span>Discussion: polytope vs. V-polytope vs. H-polytope (Villa)</span></li>
+          <li><time datetime="13:55">13:55</time><span>Workshop photo (week 1)</span></li>
+          <li><time datetime="14:00">14:00</time><span><strong>Moritz Firsching:</strong> The Formal Conjectures project</span></li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-08-28">Fri, 28 August</time></td><td>
         <ul class="event-list">
-          <li>Recap of the week</li>
-          <li>Recreational activity: Walk around Krumme Lanke (start ca 15:00)</li>
+          <li><span class="event-time" aria-hidden="true"></span><span>Recap of the week</span></li>
+          <li><time datetime="15:00">ca. 15:00</time><span>Recreational activity: Walk around Krumme Lanke</span></li>
         </ul>
       </td></tr>
     </tbody>
@@ -96,33 +96,33 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
     <tbody>
       <tr><td class="date-cell"><time datetime="2026-08-31">Mon, 31 August</time></td><td>
         <ul class="event-list">
-          <li>Kick-off meeting for week II (11:00)</li>
-          <li><strong>Kim Völlinger:</strong> Polyhedra at Work: Neural Network Verification in Rocq (14:00)</li>
+          <li><time datetime="11:00">11:00</time><span>Kick-off meeting for week II</span></li>
+          <li><time datetime="14:00">14:00</time><span><strong>Kim Völlinger:</strong> Polyhedra at Work: Neural Network Verification in Rocq</span></li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-01">Tue, 1 September</time></td><td>
         <ul class="event-list">
-          <li><strong>Yaël Dillies:</strong> The Convexity Refactor (14:00)</li>
+          <li><time datetime="14:00">14:00</time><span><strong>Yaël Dillies:</strong> The Convexity Refactor</span></li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-02">Wed, 2 September</time></td><td>
         <ul class="event-list">
-          <li>Workshop photo (week 2)</li>
-          <li><strong>Jesús de Loera:</strong> AI and the future of Polyhedral Research (14:00)</li>
-          <li>Social evening</li>
+          <li><span class="event-time" aria-hidden="true"></span><span>Workshop photo (week 2)</span></li>
+          <li><time datetime="14:00">14:00</time><span><strong>Jesús de Loera:</strong> AI and the future of Polyhedral Research</span></li>
+          <li><span class="event-time" aria-hidden="true"></span><span>Social evening</span></li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-03">Wed, 3 September</time></td><td>
         <ul class="event-list">
-          <li><strong>Yaël Dillies:</strong> What to use LLMs for in Lean? (14:00)</li>
-          <li>Social evening</li>
+          <li><time datetime="14:00">14:00</time><span><strong>Yaël Dillies:</strong> What to use LLMs for in Lean?</span></li>
+          <li><span class="event-time" aria-hidden="true"></span><span>Social evening</span></li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-04">Fri, 4 September</time></td><td>
         <ul class="event-list">
-          <li>Recap of the week</li>
-          <li>Discussion of the future of the project (14:00)</li>
-          <li>Official end: 15:00</li>
+          <li><span class="event-time" aria-hidden="true"></span><span>Recap of the week</span></li>
+          <li><time datetime="14:00">14:00</time><span>Discussion of the future of the project</span></li>
+          <li><time datetime="15:00">15:00</time><span>Official end</span></li>
         </ul>
       </td></tr>
     </tbody>

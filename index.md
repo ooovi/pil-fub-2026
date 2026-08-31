@@ -114,7 +114,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-03">Thu, 3 September</time></td><td>
         <ul class="event-list">
-          <li><time datetime="14:00">14:00</time><span><strong>Yaël Dillies:</strong> What to use LLMs for in Lean?</span></li>
+          <li><time datetime="14:00">14:00</time><span><strong>Yaël Dillies:</strong> What Lean tasks are LLMs good at on the 3rd of September 2026?</span></li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-04">Fri, 4 September</time></td><td>

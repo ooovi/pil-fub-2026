@@ -1,3 +1,4 @@
+---
 page-title: Polyhedra in Lean
 ---
 

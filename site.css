@@ -179,9 +179,9 @@ div.side-by-side {
 .workshop-schedule .schedule-table th, .workshop-schedule .schedule-table td { padding:.75rem .875rem; text-align:left; vertical-align:top; border-bottom:1px solid var(--schedule-line); }
 .workshop-schedule .schedule-table th { background:var(--schedule-soft); }
 .workshop-schedule .schedule-table tr:last-child td { border-bottom:0; }
-.workshop-schedule .date-cell { width:13.5rem; white-space:nowrap; }
+.workshop-schedule .date-cell { width:10rem; white-space:nowrap; }
 .workshop-schedule .event-list { list-style:none; margin:0; padding:0; }
-.workshop-schedule .event-list li { display:grid; grid-template-columns:4.5rem minmax(0,1fr); gap:0.25rem; }
+.workshop-schedule .event-list li { display:grid; grid-template-columns:4.5rem minmax(0,1fr); gap:0.0rem; }
 .workshop-schedule .event-list li + li { margin-top:.35rem; }
 .workshop-schedule .plain-days { margin-top:1.125rem; padding:.8rem 1rem; border-left:4px solid var(--schedule-accent); background:#e9f2f4; }
 .workshop-schedule .plain-days strong { display:block; }

@@ -57,8 +57,8 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
   <h3>Talks and special sessions</h3>
   <p>Unless listed here, the day follows the group-work schedule above.</p>
 
+  <h4>Week I</h4>
   <table class="schedule-table exceptions">
-    <caption class="sr-only">Talks and sessions that supplement or replace the typical group-work programme</caption>
     <thead><tr><th scope="col">Date</th><th scope="col">Additional program</th></tr></thead>
     <tbody>
       <tr><td class="date-cell"><time datetime="2026-08-25">Tue, 25 August</time></td><td>
@@ -87,6 +87,13 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
           <li>Recreational activity: Walk around Krumme Lanke (start ca 15:00)</li>
         </ul>
       </td></tr>
+    </tbody>
+  </table>
+
+  <h4>Week II</h4>
+  <table class="schedule-table exceptions">
+    <thead><tr><th scope="col">Date</th><th scope="col">Additional program</th></tr></thead>
+    <tbody>
       <tr><td class="date-cell"><time datetime="2026-08-31">Mon, 31 August</time></td><td>
         <ul class="event-list">
           <li>Kick-off meeting for week II (11:00)</li>

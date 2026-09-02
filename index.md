@@ -98,7 +98,7 @@ On some days we will have a talk on the topics of Lean, formalization, AI and/or
       <tr><td class="date-cell"><time datetime="2026-08-31">Mon, 31 August</time></td><td>
         <ul class="event-list">
           <li><time datetime="11:00">11:00</time><span>Kick-off meeting for week II</span></li>
-          <li><time datetime="14:00">14:00</time><span><strong>Kim Völlinger:</strong> Polyhedra at Work: Neural Network Verification in Rocq</span></li>
+          <li><time datetime="14:00">14:00</time><span><strong>Kim Völlinger:</strong> Polyhedra at Work: Neural Network Verification in Rocq (<a href="PolyhedraLeanWS-Rocq-NN-Roll.pdf">slides</a>)</span></li>
         </ul>
       </td></tr>
       <tr><td class="date-cell"><time datetime="2026-09-01">Tue, 1 September</time></td><td>

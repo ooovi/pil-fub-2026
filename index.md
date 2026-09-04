@@ -205,7 +205,11 @@ the [mathlib documentation](https://leanprover-community.github.io/mathlib4_docs
 
 ## Group Photo
 
+### Week 1
 <img src="group_photo.jpg" width="100%"/>
+
+### Week 2
+<img src="group_photo2.jpg" width="100%"/>
 
 
 ## Funding
